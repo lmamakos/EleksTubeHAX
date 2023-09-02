@@ -10,6 +10,9 @@ Firmware supports and was tested on those two clock versions:
 ![EleksTube IPS clock](/Photos/EleksTube_original_PCB.jpg)
 ![SI HAI IPS clock](/Photos/SI_HAI_ips_clock.jpg)
 
+## Updates from [aly-fly's version](https://github.com/aly-fly/EleksTubeHAX):
+- Convert to build using PlatformIO
+
 ## Updates from original SmittyHalibut's version:
 
 - Partitions changed to 1MB / 3 MB for more space for images
